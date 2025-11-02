@@ -28,6 +28,7 @@ Useful for loading a simple CSS file without embedding both `css-loader` and `st
 With this `style.css` :
 ```css
 
+
 a {
     color: red;
 }
