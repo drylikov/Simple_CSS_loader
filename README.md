@@ -34,6 +34,7 @@ a:hover {
 ,
 
 
+
 ```js
 require('simple-css!./style.css');
 ```
