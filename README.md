@@ -13,6 +13,7 @@ Useful for loading a simple CSS file without embedding both `css-loader` and `st
 ## Installation
 
 
+
 `npm install --save-dev simple-css-loader`
 
 ## Usage
