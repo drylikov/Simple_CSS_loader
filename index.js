@@ -16,3 +16,4 @@ module.exports = function(css) {
         return null;\n\
     })(document);\n";
 };
+
