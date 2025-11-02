@@ -4,6 +4,7 @@
 # Lightweight CSS loader for webpack
 
 
+
 Inject a CSS file in the DOM.
 Useful for loading a simple CSS file without embedding both `css-loader` and `style-loader` in your script.
 
