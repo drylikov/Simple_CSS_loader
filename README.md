@@ -42,6 +42,7 @@ a:hover {
 require('simple-css!./style.css');
 ```
 
+
 will append this Dom node to `<head>` :
 
 ```html
