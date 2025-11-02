@@ -58,6 +58,7 @@ will append this Dom node to `<head>` :
 
 
 ```html
+
 <style type="text/css" >
 a {
     color: red;
