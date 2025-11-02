@@ -1,0 +1,16 @@
+{
+    "name": "simple_css_loader",
+    "version": "0.1.1",
+    "author": "Denis Rylikov",
+    "description": "Lightweight css loader for webpack",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:drylikov/simple_css_loader.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": ""
+        }
+    ]
+}
